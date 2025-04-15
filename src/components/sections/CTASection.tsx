@@ -1,3 +1,4 @@
+
 import React from 'react';
 import SectionContainer from '../SectionContainer';
 import EmailSignupForm from '../EmailSignupForm';
@@ -17,7 +18,7 @@ const CTASection = () => {
         </h2>
         
         <p className="text-xl text-white/80 mb-8 max-w-2xl mx-auto">
-          Join over 1,500 traders who are already on the waitlist to gain early access to our AI Crypto Bot with proven 89% success rate.
+          Join our AI Crypto Bot with a proven 89% success rate in delivering high-confidence trading signals.
         </p>
         
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
