@@ -1,4 +1,3 @@
-
 import React from 'react';
 import SectionContainer from '../SectionContainer';
 import EmailSignupForm from '../EmailSignupForm';
@@ -6,8 +5,6 @@ import { Check } from 'lucide-react';
 
 const benefits = [
   "Priority access when we launch",
-  "Early bird pricing (40% discount)",
-  "Free 14-day trial period",
   "Exclusive educational content"
 ];
 
